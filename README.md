@@ -1,4 +1,4 @@
 # TeamProject
-Yanishevska Olena
-Yavorskiy Andriy
+Yanishevska Olena,
+Yavorskiy Andriy,
 Sharshatkin Mykola
